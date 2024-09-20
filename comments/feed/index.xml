@@ -4,134 +4,171 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
-	Comments for BizSuite ERP	</title>
+	Comments for EBIIS	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description>Cloud Business Management System</description>
-	<lastBuildDate>Sat, 24 Oct 2020 12:14:19 +0000</lastBuildDate>
+	<description>AUDIOLOGICAL SERVICES</description>
+	<lastBuildDate>Mon, 02 Sep 2019 13:57:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>
-		Comment on Sunglasses by Admin		</title>
-		<link>./../../index.html?p=1380%2F#comment-19</link>
+		Comment on Hello world! by A WordPress Commenter		</title>
+		<link>./../../hello-world/index.html#comment-1</link>
 
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Tue, 23 Apr 2019 06:27:06 +0000</pubDate>
-		<guid isPermaLink="false">http://jthemes.org/wp/landpick/demos/product/import-placeholder-for-62/#comment-19</guid>
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Thu, 29 Aug 2019 21:27:49 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
 
-					<description><![CDATA[Good item :)]]></description>
-			<content:encoded><![CDATA[<p>Good item 🙂</p>
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
-		Comment on Cap by Admin		</title>
-		<link>./../../index.html?p=1379%2F#comment-18</link>
+		Comment on 3 Ways You Can Give Back This Holiday Season by iosipratama		</title>
+		<link>./../../tes-3/index.html#comment-6</link>
 
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Tue, 23 Apr 2019 06:26:38 +0000</pubDate>
-		<guid isPermaLink="false">http://jthemes.org/wp/landpick/demos/product/import-placeholder-for-60/#comment-18</guid>
+		<dc:creator><![CDATA[iosipratama]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2019 09:05:34 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1841#comment-6</guid>
 
-					<description><![CDATA[Nice cap!!!]]></description>
-			<content:encoded><![CDATA[<p>Nice cap!!!</p>
+					<description><![CDATA[Thanks for your sharing! Anw, looking for other interesting posts.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for your sharing! Anw, looking for other interesting posts.</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
-		Comment on Hoodie with Zipper by Admin		</title>
-		<link>./../../index.html?p=1382%2F#comment-20</link>
+		Comment on 5 Charities That Build Homes For People by iosipratama		</title>
+		<link>./../../tes-4/index.html#comment-7</link>
 
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Tue, 23 Apr 2019 06:26:11 +0000</pubDate>
-		<guid isPermaLink="false">http://jthemes.org/wp/landpick/demos/product/import-placeholder-for-66/#comment-20</guid>
+		<dc:creator><![CDATA[iosipratama]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2018 04:27:30 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1842#comment-7</guid>
 
-					<description><![CDATA[Excellent Product!!!]]></description>
-			<content:encoded><![CDATA[<p>Excellent Product!!!</p>
+					<description><![CDATA[Thanks for your sharing! Anw, looking for other interesting posts.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for your sharing! Anw, looking for other interesting posts.</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
-		Comment on Professional Business Approach Since Day One by Jenny Peterson		</title>
-		<link>./../../professional-business-approach-since-day-one/index.html#comment-17</link>
+		Comment on How to Get More Donations for Your Fundraisers by iosipratama		</title>
+		<link>./../../tes-2/index.html#comment-2</link>
 
-		<dc:creator><![CDATA[Jenny Peterson]]></dc:creator>
-		<pubDate>Wed, 13 Feb 2019 10:26:25 +0000</pubDate>
-		<guid isPermaLink="false">http://jthemes.org/wp/landpick/demos/?p=135#comment-17</guid>
+		<dc:creator><![CDATA[iosipratama]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2018 04:00:22 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1840#comment-2</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;./../../professional-business-approach-since-day-one/index.html#comment-16&quot;&gt;Jhon doe&lt;/a&gt;.
-
-Curabitur ac dapibus libero. Quisque eu tristique neque. Phasellus blandit tristique justo ut aliquam. Aliquam vitae molestie nunc. Quisque sapien justo, aliquet non molestie sed, venenatis nec purus. Aliquam eget lacinia elit. Vestibulum tincidunt tincidunt massa, et porttitor justo.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="./../../professional-business-approach-since-day-one/index.html#comment-16">Jhon doe</a>.</p>
-<p>Curabitur ac dapibus libero. Quisque eu tristique neque. Phasellus blandit tristique justo ut aliquam. Aliquam vitae molestie nunc. Quisque sapien justo, aliquet non molestie sed, venenatis nec purus. Aliquam eget lacinia elit. Vestibulum tincidunt tincidunt massa, et porttitor justo.</p>
+					<description><![CDATA[Good theme !]]></description>
+			<content:encoded><![CDATA[<p>Good theme !</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
-		Comment on Professional Business Approach Since Day One by Jhon doe		</title>
-		<link>./../../professional-business-approach-since-day-one/index.html#comment-16</link>
+		Comment on Better help for vulnerable children school by iosipratama		</title>
+		<link>./../../tes-6/index.html#comment-12</link>
 
-		<dc:creator><![CDATA[Jhon doe]]></dc:creator>
-		<pubDate>Wed, 13 Feb 2019 09:54:07 +0000</pubDate>
-		<guid isPermaLink="false">http://jthemes.org/wp/landpick/demos/?p=135#comment-16</guid>
+		<dc:creator><![CDATA[iosipratama]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2018 03:59:12 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1844#comment-12</guid>
 
-					<description><![CDATA[Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta justo. Velna vitae auctor congue magna nihil impedit ligula risus. Mauris donec ociis et magnis sapien etiam sapien sem sagittis congue tempor gravida donec enim ipsum porta justo integer at odio velna]]></description>
-			<content:encoded><![CDATA[<p>Aliqum mullam blandit tempor sapien gravida donec ipsum, at porta justo. Velna vitae auctor congue magna nihil impedit ligula risus. Mauris donec ociis et magnis sapien etiam sapien sem sagittis congue tempor gravida donec enim ipsum porta justo integer at odio velna</p>
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../tes-6/index.html#comment-9&quot;&gt;iosipratama&lt;/a&gt;.
+
+Thanks for your sharing!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../tes-6/index.html#comment-9">iosipratama</a>.</p>
+<p>Thanks for your sharing!</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
-		Comment on Professional Business Approach Since Day One by Jenny Peterson		</title>
-		<link>./../../professional-business-approach-since-day-one/index.html#comment-15</link>
+		Comment on Better help for vulnerable children school by iosipratama		</title>
+		<link>./../../tes-6/index.html#comment-11</link>
 
-		<dc:creator><![CDATA[Jenny Peterson]]></dc:creator>
-		<pubDate>Wed, 13 Feb 2019 09:52:33 +0000</pubDate>
-		<guid isPermaLink="false">http://jthemes.org/wp/landpick/demos/?p=135#comment-15</guid>
+		<dc:creator><![CDATA[iosipratama]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2018 03:58:55 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1844#comment-11</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore. incididunt ut labore et dolore. Neque turpis vitae eros praesent varius. Egestas pellentesque urna blandit, sed ac leo ut mi, nam wisi, laborum donec erat amet]]></description>
-			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore. incididunt ut labore et dolore. Neque turpis vitae eros praesent varius. Egestas pellentesque urna blandit, sed ac leo ut mi, nam wisi, laborum donec erat amet</p>
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
-		Comment on Professional Business Approach Since Day One by Admin		</title>
-		<link>./../../professional-business-approach-since-day-one/index.html#comment-14</link>
+		Comment on Better help for vulnerable children school by iosipratama		</title>
+		<link>./../../tes-6/index.html#comment-10</link>
 
-		<dc:creator><![CDATA[Admin]]></dc:creator>
-		<pubDate>Wed, 13 Feb 2019 09:51:38 +0000</pubDate>
-		<guid isPermaLink="false">http://jthemes.org/wp/landpick/demos/?p=135#comment-14</guid>
+		<dc:creator><![CDATA[iosipratama]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2018 03:58:40 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1844#comment-10</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;./../../professional-business-approach-since-day-one/index.html#comment-13&quot;&gt;Robert Peterson&lt;/a&gt;.
-
-At sagittis congue augue egestas egestas magna ipsum vitae purus ipsum primis in cubilia laoreet augue egestas luctus donec diam ociis ultrice ligula magna suscipit lectus gestas]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="./../../professional-business-approach-since-day-one/index.html#comment-13">Robert Peterson</a>.</p>
-<p>At sagittis congue augue egestas egestas magna ipsum vitae purus ipsum primis in cubilia laoreet augue egestas luctus donec diam ociis ultrice ligula magna suscipit lectus gestas</p>
+					<description><![CDATA[Thanks for your sharing! Anw, looking for other interesting posts.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for your sharing! Anw, looking for other interesting posts.</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
-		Comment on Professional Business Approach Since Day One by Robert Peterson		</title>
-		<link>./../../professional-business-approach-since-day-one/index.html#comment-13</link>
+		Comment on Better help for vulnerable children school by iosipratama		</title>
+		<link>./../../tes-6/index.html#comment-9</link>
 
-		<dc:creator><![CDATA[Robert Peterson]]></dc:creator>
-		<pubDate>Wed, 13 Feb 2019 09:49:32 +0000</pubDate>
-		<guid isPermaLink="false">http://jthemes.org/wp/landpick/demos/?p=135#comment-13</guid>
+		<dc:creator><![CDATA[iosipratama]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2018 03:58:29 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1844#comment-9</guid>
 
-					<description><![CDATA[Etiam sapien sem magna at vitae pulvinar congue augue egestas pretium neque id viverra suscipit porta ratione, mollis risus lectus porta]]></description>
-			<content:encoded><![CDATA[<p>Etiam sapien sem magna at vitae pulvinar congue augue egestas pretium neque id viverra suscipit porta ratione, mollis risus lectus porta</p>
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../tes-6/index.html#comment-8&quot;&gt;iosipratama&lt;/a&gt;.
+
+Best sharing, thanks!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../tes-6/index.html#comment-8">iosipratama</a>.</p>
+<p>Best sharing, thanks!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Better help for vulnerable children school by iosipratama		</title>
+		<link>./../../tes-6/index.html#comment-8</link>
+
+		<dc:creator><![CDATA[iosipratama]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2018 03:58:11 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1844#comment-8</guid>
+
+					<description><![CDATA[Good service, good sharing, and support. Always trust on your coworking suppliance]]></description>
+			<content:encoded><![CDATA[<p>Good service, good sharing, and support. Always trust on your coworking suppliance</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Call for action to tackle children&#8217;s loneliness by iosipratama		</title>
+		<link>./../../tes-5/index.html#comment-5</link>
+
+		<dc:creator><![CDATA[iosipratama]]></dc:creator>
+		<pubDate>Mon, 17 Dec 2018 06:39:47 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.vastthemes.com/business/?p=1843#comment-5</guid>
+
+					<description><![CDATA[Relationships with family and friends are crucial to children’s happiness]]></description>
+			<content:encoded><![CDATA[<p>Relationships with family and friends are crucial to children’s happiness</p>
 ]]></content:encoded>
 		
 			</item>
